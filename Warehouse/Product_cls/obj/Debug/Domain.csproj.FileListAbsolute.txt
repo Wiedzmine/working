@@ -1,0 +1,12 @@
+E:\2013-2014\UPRPZ\Warehouse\bin\Domain.dll.config
+E:\2013-2014\UPRPZ\Warehouse\bin\Domain.dll
+E:\2013-2014\UPRPZ\Warehouse\bin\Domain.pdb
+E:\2013-2014\UPRPZ\Warehouse\Domain\obj\Debug\Domain.dll
+E:\2013-2014\UPRPZ\Warehouse\Domain\obj\Debug\Domain.pdb
+E:\2013-2014\UPRPZ\Warehouse\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Admin\test\Warehouse\bin\Product_cls.dll.config
+C:\Users\Admin\test\Warehouse\bin\Product_cls.dll
+C:\Users\Admin\test\Warehouse\bin\Product_cls.pdb
+C:\Users\Admin\test\Warehouse\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Admin\test\Warehouse\Domain\obj\Debug\Product_cls.dll
+C:\Users\Admin\test\Warehouse\Domain\obj\Debug\Product_cls.pdb

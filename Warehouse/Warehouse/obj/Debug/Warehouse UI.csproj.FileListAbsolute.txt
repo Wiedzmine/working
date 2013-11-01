@@ -1,0 +1,64 @@
+D:\UNIVER\2013-2014\UPRPZ\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+D:\UNIVER\2013-2014\UPRPZ\Warehouse\Warehouse\bin\Debug\Warehouse.exe
+D:\UNIVER\2013-2014\UPRPZ\Warehouse\Warehouse\bin\Debug\Warehouse.pdb
+D:\UNIVER\2013-2014\UPRPZ\Warehouse\Warehouse\obj\Debug\Warehouse UI.csprojResolveAssemblyReference.cache
+D:\UNIVER\2013-2014\UPRPZ\Warehouse\Warehouse\obj\Debug\Warehouse UI.csproj.GenerateResource.Cache
+D:\UNIVER\2013-2014\UPRPZ\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+D:\UNIVER\2013-2014\UPRPZ\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+D:\UNIVER\2013-2014\UPRPZ\Warehouse\Warehouse\obj\Debug\WH.Form1.resources
+D:\UNIVER\2013-2014\UPRPZ\Warehouse\Warehouse\obj\Debug\WH.Properties.Resources.resources
+E:\2013-2014\UPRPZ\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+E:\2013-2014\UPRPZ\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+E:\2013-2014\UPRPZ\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+E:\2013-2014\UPRPZ\Warehouse\Warehouse\bin\Debug\Warehouse.exe
+E:\2013-2014\UPRPZ\Warehouse\Warehouse\bin\Debug\Warehouse.pdb
+E:\2013-2014\UPRPZ\Warehouse\Warehouse\obj\Debug\Warehouse UI.csprojResolveAssemblyReference.cache
+E:\2013-2014\UPRPZ\Warehouse\Warehouse\obj\Debug\WH.Form1.resources
+E:\2013-2014\UPRPZ\Warehouse\Warehouse\obj\Debug\WH.Properties.Resources.resources
+E:\2013-2014\UPRPZ\Warehouse\Warehouse\obj\Debug\Warehouse UI.csproj.GenerateResource.Cache
+E:\2013-2014\UPRPZ\Warehouse\bin\Warehouse.exe.config
+E:\2013-2014\UPRPZ\Warehouse\bin\Warehouse.exe
+E:\2013-2014\UPRPZ\Warehouse\bin\Warehouse.pdb
+E:\2013-2014\UPRPZ\Warehouse\Warehouse\obj\Debug\WH.AddFormDialog.resources
+E:\2013-2014\UPRPZ\Warehouse\Warehouse\obj\Debug\WH.AddProductForm.resources
+E:\2013-2014\UPRPZ\Warehouse\bin\WareProjectDB.mdf
+E:\2013-2014\UPRPZ\Warehouse\bin\WareProjectDB_log.ldf
+C:\Users\Admin\Desktop\Warehouse\Warehouse\bin\Warehouse.exe.config
+C:\Users\Admin\Desktop\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\Admin\Desktop\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\Admin\Desktop\Warehouse\Warehouse\bin\WareProjectDB.mdf
+C:\Users\Admin\Desktop\Warehouse\Warehouse\bin\WareProjectDB_log.ldf
+C:\Users\Admin\Desktop\Warehouse\Warehouse\bin\Warehouse.exe
+C:\Users\Admin\Desktop\Warehouse\Warehouse\bin\Warehouse.pdb
+C:\Users\Admin\Desktop\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse UI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Warehouse\Warehouse\Warehouse\obj\Debug\WH.AddFormDialog.resources
+C:\Users\Admin\Desktop\Warehouse\Warehouse\Warehouse\obj\Debug\WH.AddProductForm.resources
+C:\Users\Admin\Desktop\Warehouse\Warehouse\Warehouse\obj\Debug\WH.Form1.resources
+C:\Users\Admin\Desktop\Warehouse\Warehouse\Warehouse\obj\Debug\WH.Properties.Resources.resources
+C:\Users\Admin\Desktop\Warehouse\Warehouse\Warehouse\obj\Debug\Warehouse UI.csproj.GenerateResource.Cache
+C:\Users\Admin\test\Warehouse\bin\Warehouse.exe.config
+C:\Users\Admin\test\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\Admin\test\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\Admin\test\Warehouse\bin\WareProjectDB.mdf
+C:\Users\Admin\test\Warehouse\bin\WareProjectDB_log.ldf
+C:\Users\Admin\test\Warehouse\bin\Warehouse.exe
+C:\Users\Admin\test\Warehouse\bin\Warehouse.pdb
+C:\Users\Admin\test\Warehouse\Warehouse\obj\Debug\Warehouse UI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\test\Warehouse\Warehouse\obj\Debug\WH.AddFormDialog.resources
+C:\Users\Admin\test\Warehouse\Warehouse\obj\Debug\WH.AddProductForm.resources
+C:\Users\Admin\test\Warehouse\Warehouse\obj\Debug\WH.Form1.resources
+C:\Users\Admin\test\Warehouse\Warehouse\obj\Debug\WH.Properties.Resources.resources
+C:\Users\Admin\test\Warehouse\Warehouse\obj\Debug\Warehouse UI.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Warehouse\bin\Warehouse.exe.config
+C:\Users\Admin\Desktop\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\Admin\Desktop\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\Admin\Desktop\Warehouse\bin\WareProjectDB.mdf
+C:\Users\Admin\Desktop\Warehouse\bin\WareProjectDB_log.ldf
+C:\Users\Admin\Desktop\Warehouse\bin\Warehouse.exe
+C:\Users\Admin\Desktop\Warehouse\bin\Warehouse.pdb
+C:\Users\Admin\Desktop\Warehouse\Warehouse\obj\Debug\Warehouse UI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Warehouse\Warehouse\obj\Debug\WH.AddFormDialog.resources
+C:\Users\Admin\Desktop\Warehouse\Warehouse\obj\Debug\WH.AddProductForm.resources
+C:\Users\Admin\Desktop\Warehouse\Warehouse\obj\Debug\WH.Form1.resources
+C:\Users\Admin\Desktop\Warehouse\Warehouse\obj\Debug\WH.Properties.Resources.resources
+C:\Users\Admin\Desktop\Warehouse\Warehouse\obj\Debug\Warehouse UI.csproj.GenerateResource.Cache
